@@ -4,3 +4,6 @@ Raktár manager program tervezése amelynek a következő funkcionalitások és 
 - Áru menedzsment
 - Rendelés menedzsment
 - Beszállítók és Vásárlók menedzsmentje.
+
+## UML ábra:
+![alt text](img/uml.png)
